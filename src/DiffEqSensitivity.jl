@@ -14,7 +14,7 @@ import RandomNumbers: Xorshifts
 using Random
 import ZygoteRules, Zygote, ReverseDiff
 import ArrayInterface
-import Enzyme
+# import Enzyme
 
 using Cassette, DiffRules
 using Core: CodeInfo, SlotNumber, SSAValue, ReturnNode, GotoIfNot
